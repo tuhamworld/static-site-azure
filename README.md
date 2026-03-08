@@ -16,7 +16,7 @@ This static site was initially built in 2023 and has been enhanced with automate
 - **File**: `scripts/deploy.sh`
 - **Components**:
   - **Resource Group**: `tuhamstatic-site-rg` - Logical container for Azure resources
-  - **Storage Account**: `mystaticstorage` - Hosts the static website
+  - **Storage Account**: `tuhamstaticstorage` - Hosts the static website
   - **Region**: `westus` - Azure region for resource deployment
   - **Static Website Hosting**: Enabled with `index.html` as the index document
 
