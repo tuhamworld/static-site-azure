@@ -32,4 +32,7 @@ This static site was initially built in 2023 and has been enhanced with automate
 ## Setup Requirements
 - Azure CLI installed and authenticated
 - Azure subscription with appropriate permissions
-- GitHub repository secrets configured with `AZURE_CREDENTIALS` (Azure service principal JSON) 
+- GitHub repository secrets configured with `AZURE_CREDENTIALS` (Azure service principal JSON)
+
+## Screenshots
+View screenshots of the website and deployment process in the [screenshots/](screenshots/) folder. 
