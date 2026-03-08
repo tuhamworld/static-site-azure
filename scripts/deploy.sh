@@ -2,9 +2,9 @@
 
 # Configuration
 RESOURCE_GROUP="tuhamstatic-site-rg"
-STORAGE_ACCOUNT="mystaticstorage"
+STORAGE_ACCOUNT="tuhamstaticstorage"
 LOCATION="westus"
-WEBSITE_PATH="./website"
+WEBSITE_PATH="../website"
 
 # Check if resource group exists
 if ! az group exists --name $RESOURCE_GROUP | grep -q true; then
