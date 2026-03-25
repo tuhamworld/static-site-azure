@@ -3,7 +3,7 @@ Want to know more about me? This project shows a glimpse of who Tunde Abdulhamid
 
 ## Updated Information
 
-This static site was initially built in 2023 and has been enhanced with automated CI/CD deployment using GitHub Actions and Azure Storage.
+This static site was initially built in 2023 [See Preview/](https://tuhamworld.vercel.app/) and has been enhanced with automated CI/CD deployment using GitHub Actions and Azure Storage.
 
 ## Deployment Architecture
 
